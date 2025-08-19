@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Fiction",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/7222246-M.jpg"
+  },
+  {
+    "id": 3,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "price": 279,
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Fiction",
+    "price": 249,
+    "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "price": 399,
+    "image": "https://covers.openlibrary.org/b/id/8107892-L.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "category": "Education",
+    "price": 499,
+    "image": "https://covers.openlibrary.org/b/id/9259251-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Education",
+    "price": 429,
+    "image": "https://covers.openlibrary.org/b/id/9257875-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "category": "Education",
+    "price": 379,
+    "image": "https://covers.openlibrary.org/b/id/8753661-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Education",
+    "price": 459,
+    "image": "https://covers.openlibrary.org/b/id/8693088-L.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Education",
+    "price": 499,
+    "image": "https://covers.openlibrary.org/b/id/9257816-L.jpg"
+  },
+
+  {
+    "id": 11,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Technology",
+    "price": 799,
+    "image": "https://covers.openlibrary.org/b/id/9614304-L.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "category": "Technology",
+    "price": 899,
+    "image": "https://covers.openlibrary.org/b/id/9302706-L.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "category": "Technology",
+    "price": 1299,
+    "image": "https://covers.openlibrary.org/b/id/8231997-L.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "category": "Technology",
+    "price": 999,
+    "image": "https://covers.openlibrary.org/b/id/8165263-L.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell",
+    "category": "Technology",
+    "price": 1399,
+    "image": "https://covers.openlibrary.org/b/id/8231816-L.jpg"
+  },
+
+  {
+    "id": 16,
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "author": "J.K. Rowling",
+    "category": "Children",
+    "price": 399,
+    "image": "https://covers.openlibrary.org/b/id/7884866-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "category": "Children",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8228690-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "category": "Children",
+    "price": 279,
+    "image": "https://covers.openlibrary.org/b/id/7884850-L.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Alice in Wonderland",
+    "author": "Lewis Carroll",
+    "category": "Children",
+    "price": 249,
+    "image": "https://covers.openlibrary.org/b/id/8100915-L.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Cat in the Hat",
+    "author": "Dr. Seuss",
+    "category": "Children",
+    "price": 199,
+    "image": "https://covers.openlibrary.org/b/id/8228695-L.jpg"
+  },
+
+  {
+    "id": 21,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "category": "Business",
+    "price": 399,
+    "image": "https://covers.openlibrary.org/b/id/8375101-L.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Business",
+    "price": 499,
+    "image": "https://covers.openlibrary.org/b/id/8235141-L.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "category": "Business",
+    "price": 429,
+    "image": "https://covers.openlibrary.org/b/id/9259256-L.jpg"
+  },
+  {
+    "id": 24,
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen Covey",
+    "category": "Business",
+    "price": 549,
+    "image": "https://covers.openlibrary.org/b/id/9283692-L.jpg"
+  },
+  {
+    "id": 25,
+    "title": "How to Win Friends & Influence People",
+    "author": "Dale Carnegie",
+    "category": "Business",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/9259241-L.jpg"
+  }
+]

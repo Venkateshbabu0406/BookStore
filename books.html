@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ameer Bookstore - Books</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <div class="logo">📚 Ameer Bookstore</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="books.html" class="active">Books</a>
+      <a href="cart.html">Cart 🛒</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Our Collection</h2>
+    <div class="filters">
+      <input type="text" id="searchInput" placeholder="Search for books...">
+      <select id="categoryFilter">
+        <option value="all">All Categories</option>
+        <option value="Fiction">Fiction</option>
+        <option value="Science">Science</option>
+        <option value="History">History</option>
+        <option value="Technology">Technology</option>
+        <option value="Business">Business</option>
+      </select>
+      <select id="priceFilter">
+        <option value="all">All Prices</option>
+        <option value="0-200">Under ₹200</option>
+        <option value="200-500">₹200 - ₹500</option>
+        <option value="500-1000">₹500 - ₹1000</option>
+        <option value="1000">Above ₹1000</option>
+      </select>
+    </div>
+
+    <div id="booksContainer" class="books-container"></div>
+  </main>
+
+  <footer>
+    <p>© 2025 Ameer Bookstore. All rights reserved.</p>
+  </footer>
+</body>
+</html>
